@@ -1,0 +1,46 @@
+// Add your custom styles here
+
+.site-header {
+    border-top: 5px solid var(--brand-color);
+  }
+  
+  .service-card {
+    border: 1px solid var(--border-color-01);
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 4px;
+    
+    &:hover {
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+  }
+  
+  .hero-section {
+    text-align: center;
+    padding: 4rem 0;
+    background: var(--code-background-color);
+    
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    
+    p {
+      font-size: 1.2rem;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+  }
+
+.site-header {
+  .site-title {
+    display: flex;
+    align-items: center;
+    
+    img {
+      max-height: 40px;
+      width: auto;
+      margin-right: 10px;
+    }
+  }
+}
