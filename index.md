@@ -14,7 +14,7 @@ At Schmitech, we specialize in harnessing the power of open-source Large Languag
 - **Expert Implementation**: Our team brings deep technical expertise and industry knowledge to every project
 - **Ongoing Support**: We provide comprehensive support and training to ensure your success
 
-## Our Core Solutions
+## Solutions
 
 ### LLM Power-Up
 Transform existing open-source LLMs into powerful, customized solutions tailored to your business needs.
