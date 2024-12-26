@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Enterprise AI Solutions & Consulting
+title: AI-Driven Success for Small & Medium Businesses
 ---
 
 ## Empower Your business Through Custom AI Solutions
