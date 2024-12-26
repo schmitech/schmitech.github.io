@@ -1,7 +1,7 @@
 title: Schmitech
 description: Custom AI Solutions
 email: info@schmitech.ai
-baseurl: "/"
+baseurl: ""
 url: "https://schmitech.ai"
 
 # Theme settings
@@ -22,8 +22,10 @@ plugins:
 # Navigation
 header_pages:
   - services.md
+  - models.md
   - about.md
   - contact.md
+  
 
 # Collections
 collections:
