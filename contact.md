@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Get in Touch
+title: Contact Us
 permalink: /contact/
 ---
 
 We'd love to hear from you and discuss how we can help transform your business with custom AI solutions.
 
-## Contact Information
+**Phone**: (613) 265-7046
 
 **Email**: info@schmitech.ai
 
-**Location**: 116 Granville St. Ottawa ON K1L 6Y4 Canada
+**Address**: 116 Granville St. Ottawa ON K1L 6Y4 Canada
 
 ## Schedule a Consultation
 

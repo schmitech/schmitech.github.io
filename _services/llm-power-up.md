@@ -8,7 +8,7 @@ permalink: /services/llm-power-up/
 
 Our LLM Power-Up Package takes leading open-source language models like Llama 2 and transforms them into customized solutions perfectly aligned with your business objectives.
 
-## Comprehensive Customization Options
+## Customization Options
 
 ### Basic Fine-Tuning
 - Task-specific model optimization
@@ -80,4 +80,4 @@ Our LLM Power-Up Package takes leading open-source language models like Llama 2 
 
 ## Get Started
 
-Contact us to schedule a consultation and learn how our LLM Power-Up Package can transform your business operations.
+[Contact us](/contact) to schedule a consultation and learn how our LLM Power-Up Package can transform your business operations.

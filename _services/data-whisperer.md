@@ -94,4 +94,4 @@ Our Data Whisperer service combines the power of LLMs with advanced analytics to
 
 ## Get Started
 
-Contact us to discover how our Data Whisperer service can help you unlock the full potential of your data.
+[Contact us](/contact) to discover how our Data Whisperer service can help you unlock the full potential of your data.

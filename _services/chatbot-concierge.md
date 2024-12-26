@@ -8,9 +8,9 @@ permalink: /services/chatbot-concierge/
 
 Our Chatbot Concierge service delivers sophisticated, AI-powered conversational agents that enhance customer service and streamline operations across various sectors.
 
-## Industry Specializations
+## Core Services
 
-### Government Services
+### Government
 - Citizen service automation
 - Document processing assistance
 - Policy and procedure guidance
@@ -82,7 +82,6 @@ Our Chatbot Concierge service delivers sophisticated, AI-powered conversational 
 
 ## Ongoing Support
 
-- 24/7 technical support
 - Regular performance optimization
 - Content updates and maintenance
 - Analytics and reporting
@@ -90,4 +89,4 @@ Our Chatbot Concierge service delivers sophisticated, AI-powered conversational 
 
 ## Get Started
 
-Contact us to learn how our Chatbot Concierge service can transform your customer service and operational efficiency.
+[Contact us](/contact) to learn how our Chatbot Concierge service can transform your customer service and operational efficiency.

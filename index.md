@@ -16,7 +16,7 @@ At Schmitech, we specialize in harnessing the power of open-source Large Languag
 
 ## Our Core Solutions
 
-### LLM Power-Up Package
+### LLM Power-Up
 Transform existing open-source LLMs into powerful, customized solutions tailored to your business needs.
 [Learn more](/services/llm-power-up)
 
