@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to Schmitech
+title: Enterprise AI Solutions & Consulting
 ---
 
 ## Empower Your business Through Custom AI Solutions
