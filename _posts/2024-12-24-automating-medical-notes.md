@@ -9,8 +9,6 @@ categories: [Healthcare, AI, Machine Learning]
 
 In the dynamic world of healthcare, one challenge remains a constant struggle for medical professionals—clinical documentation. Physicians and nurses often spend more time recording patient encounters than they do with patients themselves. This inefficiency leads to burnout and detracts from the quality of patient care.
 
-![Automated Clinical Notes](/assets/images/medical-notes.gif)
-
 Imagine a future where clinical conversations are captured in real-time, processed by advanced machine learning (ML) models, and transformed into comprehensive medical notes. This blog delves into how such a system can be implemented using cutting-edge ML technologies and AWS services to alleviate the burden of documentation on healthcare providers.
 
 ## The Problem: Overwhelming Documentation Burden
