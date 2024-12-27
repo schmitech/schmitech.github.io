@@ -144,6 +144,58 @@ git commit -m "Your commit message"
 git push origin main
 ```
 
+## Working with Large Files (GIFs, Images)
+
+If you need to add GIF files or large images to the repository, you'll need to set up Git Large File Storage (LFS):
+
+1. Install Git LFS
+```bash
+# For macOS (using Homebrew)
+brew install git-lfs
+
+# For Windows (using Chocolatey)
+choco install git-lfs
+
+# For Ubuntu
+sudo apt install git-lfs
+```
+
+2. Initialize Git LFS
+```bash
+git lfs install
+```
+
+3. Configure Git LFS to track GIF files
+```bash
+git lfs track "*.gif"
+```
+
+4. Add and commit the Git LFS configuration
+```bash
+git add .gitattributes
+git commit -m "Add Git LFS configuration"
+```
+
+5. Now you can add and commit GIF files normally
+```bash
+git add assets/images/your-gif-file.gif
+git commit -m "Add new GIF"
+git push origin main
+```
+
+### If you encounter issues pushing large files:
+
+1. Increase the Git buffer size:
+```bash
+git config http.postBuffer 524288000
+```
+
+2. If the push is still failing, try forcing it:
+```bash
+git push -f origin main
+```
+
+
 ## Bundler Issues
 
 If you encounter bundler errors:
