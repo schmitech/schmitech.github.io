@@ -23,7 +23,7 @@ plugins:
 header_pages:
   - about.md
   - services.md
-  - blog.md
+  - use-cases.md
   - models.md
   - contact.md
 
@@ -35,14 +35,3 @@ collections:
   posts:
     output: true
     permalink: /blog/:year/:month/:day/:title
-
-# Default front matter
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
-  - scope:
-      path: "_posts"
-    values:
-      layout: default:post   

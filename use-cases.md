@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Use Cases
+permalink: /use-cases/
 ---
-
-## Latest Insights
 
 Explore our latest thoughts on AI, machine learning, and how businesses can leverage these technologies.
 
