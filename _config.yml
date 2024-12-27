@@ -24,8 +24,11 @@ header_pages:
   - about.md
   - services.md
   - use-cases.md
-  - models.md
+  - careers.md
   - contact.md
+
+markdown: kramdown
+timezone: America/Toronto
 
 # Collections
 collections:
