@@ -3,11 +3,11 @@ layout: home
 title: AI-Driven Success for Your Business
 ---
 
-Welcome to Schmitech, where we turn your toughest business challenges into opportunities with custom AI solutions powered by open-source technology.  
+Welcome to Schmitech, where we turn business challenges into opportunities through custom solutions powered by open-source AI technologies.
 
-We take a practical, results-oriented approach to innovation. By collaborating closely with you, we identify your pain points, prototype tailored AI-powered solutions, and deliver tangible results—all with no upfront investment. See what’s possible before making a commitment.  
+Our approach to innovation is pragmatic and results-driven. By collaborating closely with you, we develop a custom Proof of Concept without any initial investment, allowing you to experience the potential before committing.
 
-Whether it’s automating time-consuming tasks, streamlining customer service with intelligent chatbots, or uncovering insights hidden in your data, we’re here to help you harness the power of AI.
+Whether it's automating time-consuming tasks, streamlining customer service with intelligent chatbots, or uncovering insights hidden in your data, we're here to help you harness the power of AI.
 
 ## Why Choose Schmitech?  
 

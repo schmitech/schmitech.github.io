@@ -4,7 +4,7 @@ title: Services
 permalink: /services/
 ---
 
-At SchmiTech, we empower organizations to harness the transformative power of open-source Large Language Models (LLMs). Our tailored solutions are designed to elevate your operations, enhance decision-making, and future-proof your business. Explore our services and discover how we can help you succeed with cutting-edge AI.  
+At Schmitech, we empower organizations to harness the transformative power of open-source Large Language Models (LLMs). Our tailored solutions are designed to elevate your operations, enhance decision-making, and future-proof your business. Explore our services and discover how we can help you succeed with cutting-edge AI.  
 
 ---
 
