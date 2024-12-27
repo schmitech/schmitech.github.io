@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Services
+title: Services
 permalink: /services/
 ---
 

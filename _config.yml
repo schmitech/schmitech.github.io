@@ -21,17 +21,20 @@ plugins:
 
 # Navigation
 header_pages:
-  - services.md
-  - models.md
   - about.md
+  - services.md
+  - blog.md
+  - models.md
   - contact.md
-  
 
 # Collections
 collections:
   services:
     output: true
     permalink: /:collection/:name
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title
 
 # Default front matter
 defaults:
@@ -39,3 +42,7 @@ defaults:
       path: ""
     values:
       layout: default
+  - scope:
+      path: "_posts"
+    values:
+      layout: default:post   
