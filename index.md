@@ -9,8 +9,6 @@ We take a practical, results-oriented approach to innovation. By collaborating c
 
 Whether it’s automating time-consuming tasks, streamlining customer service with intelligent chatbots, or uncovering insights hidden in your data, we’re here to help you harness the power of AI.
 
----
-
 ## Why Choose Schmitech?  
 
 🚀 Leverage the latest in open-source LLMs for transparent, cost-effective solutions.  
@@ -22,8 +20,6 @@ Whether it’s automating time-consuming tasks, streamlining customer service wi
 💡 Our team combines deep technical expertise with industry insights to deliver maximum impact.  
 
 🤝 We provide comprehensive support and training to ensure long-term success.  
-
----
 
 ## Our Solutions  
 
@@ -38,8 +34,6 @@ Deploy intelligent chatbots designed to enhance customer service and streamline 
 ### 📊 **Data Whisperer**  
 Unlock actionable insights with advanced analytics and visualization powered by LLMs.  
 [Learn more →](/services/data-whisperer)  
-
----
 
 ## Ready to Transform Your Business?  
 
