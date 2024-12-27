@@ -15,11 +15,6 @@ Explore our latest thoughts on AI, machine learning, and how businesses can leve
       <div class="post-meta">
         {{ post.date | date: "%B %-d, %Y" }}
       </div>
-      {% if post.image %}
-        <div class="post-image">
-          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
-        </div>
-      {% endif %}
       <div class="post-excerpt">
         {{ post.excerpt }}
       </div>
