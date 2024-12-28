@@ -38,5 +38,3 @@ collections:
   posts:
     output: true
     permalink: /blog/:year/:month/:day/:title
-
-layouts_dir: _layouts
