@@ -6,7 +6,7 @@ permalink: /careers/
 
 At Schmitech, we craft AI solutions that transform how businesses operate. As a growing consulting company in the AI space, we offer unique opportunities to work with cutting-edge technology while making a real impact on how businesses succeed.
 
-## What We Look For
+### What We Look For
 
 We're constantly seeking talented individuals passionate about:
 - Open-source AI and machine learning
@@ -14,7 +14,7 @@ We're constantly seeking talented individuals passionate about:
 - Solution architecture and cloud technologies
 - Business analysis and client relations
 
-## Why Schmitech?
+### Why Schmitech?
 
 🚀 **Innovation First**: Work directly with the latest AI technologies and shape their practical applications
 
@@ -24,7 +24,7 @@ We're constantly seeking talented individuals passionate about:
 
 🏠 **Flexible Work**: Enjoy our hybrid work model with options for remote collaboration
 
-## Our Hiring Process
+### Our Hiring Process
 
 We believe in keeping things simple and human-centered:
 
