@@ -13,27 +13,19 @@ Whether it's automating time-consuming tasks, streamlining customer service with
 
 🚀 Leverage the latest in open-source LLMs for transparent, cost-effective solutions.  
 
-
 ✨ We design every solution to align with your unique business needs and objectives.  
-
 
 💡 Our team combines deep technical expertise with industry insights to deliver maximum impact.  
 
-🤝 We provide comprehensive support and training to ensure long-term success.  
+🤝 We provide support and training to ensure long-term success.  
 
 ## Our Solutions  
 
-### 🔧 **LLM Power-Up**  
-Transform open-source LLMs into powerful, custom tools tailored to your business needs.  
-[Learn more →](/services/llm-power-up)  
+🔧 Transform open-source LLMs tools tailored to your business needs. [Learn more.](/services/llm-power-up)  
 
-### 🤖 **Chatbot Concierge**  
-Deploy intelligent chatbots designed to enhance customer service and streamline operations.  
-[Learn more →](/services/chatbot-concierge)  
+🤖 Deploy intelligent chatbots to enhance customer service and streamline operations. [Learn more.](/services/chatbot-concierge)  
 
-### 📊 **Data Whisperer**  
-Unlock actionable insights with advanced analytics and visualization powered by LLMs.  
-[Learn more →](/services/data-whisperer)  
+📊 Unlock actionable insights with advanced analytics powered by LLMs. [Learn more.](/services/data-whisperer)  
 
 ## Ready to Transform Your Business?  
 
