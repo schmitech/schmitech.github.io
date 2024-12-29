@@ -6,30 +6,29 @@ permalink: /about/
 
 Founded in December 2024, Schmitech specializes in democratizing AI technology for small and medium-sized businesses across North America. We harness powerful open-source AI innovations to create practical, accessible solutions that drive real business growth.
 
-At the helm of Schmitech is **<a href="https://www.linkedin.com/in/remsy" target="_blank" rel="noopener noreferrer">Remsy Schmilinsky</a>**, whose 20-year journey in technology has been marked by a singular focus: making powerful technology accessible and practical for businesses of all sizes. Under Remsy's leadership, Schmitech has emerged as a trusted partner in digital innovation, known for delivering solutions that combine technical excellence with practical business value.
+At the helm is **<a href="https://www.linkedin.com/in/remsy" target="_blank" rel="noopener noreferrer">Remsy Schmilinsky</a>**, whose 20-year journey in technology has been marked by a singular focus: making powerful technology accessible and practical for businesses of all sizes. Under Remsy's leadership, Schmitech has emerged as a trusted partner in digital innovation, known for delivering solutions that combine technical excellence with practical business value.
 
-![Remsy Schmilinsky](/assets/images/remsy.jpg){: .founder-image style="width: 300px; height: auto;"}
+![Remsy Schmilinsky](/assets/images/remsy.jpg){: .founder-image style="width: 350px; height: auto;"}
 
-### Meet Our Founder
-
-With expertise spanning banking, transportation, government, and logistics sectors, Remsy brings both technical depth and business acumen to every project. His background in Computer Engineering and fluency in English, French, and Spanish enable him to bridge technical and cultural gaps, ensuring solutions that truly serve their intended purpose.
+With expertise spanning banking, transportation, government, and logistics sectors, Remsy brings both technical depth and business acumen to every project. His background in Computer Science and fluency in English, French, and Spanish enable him to bridge technical and cultural gaps, ensuring solutions that truly serve their intended purpose.
 
 Key achievements throughout his career include:
-- **Cloud Architecture Transformation**: Orchestrated the modernization of mission-critical government platforms by implementing advanced ESB solutions and integrating cloud services. Designed and deployed hybrid cloud architectures, enhancing system reliability by 75% while upholding stringent security standards
 
-- **Enterprise System Migration**: Directed large-scale application migrations to cloud infrastructure, leveraging containerized solutions and implementing robust disaster recovery protocols. Crafted detailed migration strategies that reduced downtime by 95% and improved performance while achieving cost savings of 25%
+- **Cloud Architecture Transformation**: Orchestrated the modernization of mission-critical platforms by implementing advanced ESB solutions and integrating cloud services. Designed and deployed hybrid cloud architectures, achieving a 75% reduction in system outages and enhancing overall reliability while upholding stringent security standards
 
-- **Security Architecture Innovation**: Designed and implemented cloud security monitoring systems and CI/CD pipelines. Established advanced security frameworks that enabled real-time threat detection, accelerated incident response by 75%, and ensured compliance across multi-cloud environments.
+- **Enterprise System Migration**: Directed large-scale application migrations to cloud infrastructure, leveraging containerized solutions and implementing robust disaster recovery protocols. Crafted detailed migration strategies that reduced downtime by 95%, from several hours to mere minutes, and improved performance while achieving 25% cost savings through optimized resource utilization
+
+- **Security Architecture Innovation**: Designed and implemented cloud security monitoring systems and CI/CD pipelines. Established advanced security frameworks that enabled real-time threat detection, accelerated incident response by 75%, and ensured compliance across multi-cloud environments
 
 - **Large-Scale System Modernization**: Orchestrated the transformation of legacy enterprise systems into modern microservices architectures, leveraging hybrid cloud models to enhance scalability and reliability. Led cross-functional teams through complex initiatives, achieving 30% improvement in performance and ensuring seamless integration with existing systems
 
-- **Solution Architecture Leadership**: Led the development of enterprise-wide architectural standards and best practices, improving system interoperability by 75% and reducing technical debt by 40%. Designed governance frameworks that accelerated project delivery by 20% while ensuring architectural consistency across diverse business domains.
+- **Solution Architecture Leadership**: Led the development of enterprise-wide architectural standards and best practices, significantly enhancing system interoperability and reducing technical debt. Designed governance frameworks that improved project delivery timelines by 20%, ensuring architectural consistency across diverse business domains
 
-- **Digital Transformation Initiatives**: Led the modernization of critical business processes by deploying innovative technical solutions, including automated workflows and advanced integration patterns, improving operational efficiency by 50%. Designed scalable architectures to support 24/7 mission-critical operations, ensuring high availability and reliability.
+- **Digital Transformation Initiatives**: Led the modernization of critical business processes by deploying innovative technical solutions, including automated workflows and advanced integration patterns, significantly improving operational efficiency. Designed scalable architectures to support 24/7 mission-critical operations, ensuring high availability and reliability
 
-- **Enterprise Integration**: Engineered and implemented complex integration solutions connecting multiple enterprise systems, ensuring secure and reliable data exchange while maintaining data integrity. Delivered solutions that streamlined cross-organizational workflows, improving efficiency by 70% and enhancing data accessibility across key business units.
+- **Enterprise Integration**: Engineered and implemented complex integration solutions connecting multiple enterprise systems, ensuring secure and reliable data exchange while maintaining data integrity. Delivered solutions that streamlined cross-organizational workflows, achieving a 70% reduction in manual processes and enhancing data accessibility across key business units
 
-- **Technical Strategy & Innovation**: Led strategic technical initiatives in enterprise architecture, aligning technology solutions with business objectives to drive 30% growth and operational efficiency. Introduced innovative approaches to address complex challenges and established technology roadmaps that supported sustainable growth and continuous improvement of critical systems.
+- **Technical Strategy & Innovation**: Led strategic enterprise architecture initiatives, aligning technology solutions with business objectives to drive growth and achieve a 30% improvement in operational efficiency by streamlining processes and optimizing resource allocation. Introduced innovative approaches to complex challenges and developed technology roadmaps that enabled sustainable growth and continuous improvement of critical systems
 
 ### Our Philosophy
 
