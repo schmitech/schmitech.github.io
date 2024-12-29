@@ -4,7 +4,7 @@ title: About Us
 permalink: /about/
 ---
 
-Founded in 2024, Schmitech specializes in democratizing AI technology for small and medium-sized businesses across North America. We harness powerful open-source AI innovations to create practical, accessible solutions that drive real business growth.
+Founded in December 2024, Schmitech specializes in democratizing AI technology for small and medium-sized businesses across North America. We harness powerful open-source AI innovations to create practical, accessible solutions that drive real business growth.
 
 At the helm of Schmitech is **<a href="https://www.linkedin.com/in/remsy" target="_blank" rel="noopener noreferrer">Remsy Schmilinsky</a>**, whose 20-year journey in technology has been marked by a singular focus: making powerful technology accessible and practical for businesses of all sizes. Under Remsy's leadership, Schmitech has emerged as a trusted partner in digital innovation, known for delivering solutions that combine technical excellence with practical business value.
 
@@ -16,19 +16,19 @@ With expertise spanning banking, transportation, government, and logistics secto
 
 Key achievements throughout his career include:
 
-- **Cloud Architecture**: Architected and led the modernization of mission-critical government platforms, implementing modern ESB solutions and cloud services integration. Successfully designed and implemented hybrid cloud architectures that enhanced system reliability while maintaining stringent security requirements.
+- Architected and led the modernization of mission-critical government platforms, implementing modern ESB solutions and cloud services integration
 
-- **Enterprise System Migration**: Orchestrated multiple large-scale application migrations to cloud infrastructure, implementing containerized solutions and establishing robust disaster recovery procedures. Developed comprehensive migration strategies that minimized operational disruption while optimizing performance and cost efficiency.
+- Orchestrated multiple large-scale application migrations to cloud infrastructure, implementing containerized solutions and establishing robust disaster recovery procedures
 
-- **Security & Integration**: Engineered comprehensive cloud security monitoring solutions and automated CI/CD pipelines for major public sector systems. Implemented advanced security frameworks incorporating real-time threat detection, automated incident response, and compliance monitoring across multi-cloud environments.
+- Engineered cloud security monitoring solutions and automated CI/CD pipelines for major public sector system
+  
+- Implemented advanced security frameworks incorporating real-time threat detection, automated incident response, and compliance monitoring across environments
 
-- **Large-Scale System Modernization**: Led the transformation of legacy enterprise systems into modern microservices architectures, utilizing hybrid cloud deployment models to enhance scalability and reliability. Successfully guided cross-functional teams through complex modernization initiatives, ensuring seamless integration with existing systems while improving maintainability and performance.
+- Led the transformation of legacy enterprise systems into modern microservices architectures, utilizing hybrid cloud deployment models to enhance scalability and reliabilit
+ 
+- Successfully guided cross-functional teams through complex modernization initiatives, ensuring seamless integration with existing systems while improving maintainability and performance
 
-- **Technical Leadership**: Led the development of enterprise-wide architectural standards and best practices, resulting in improved system interoperability and reduced technical debt. Established governance frameworks that accelerated project delivery while maintaining architectural integrity across multiple business domains.
-
-- **Digital Transformation Initiatives**: Drove the modernization of critical business processes through innovative technical solutions, implementing automated workflows and integration patterns that significantly improved operational efficiency. Developed scalable architectures supporting 24/7 mission-critical operations with high availability requirements.
-
-- **Technical Strategy & Innovation**: Provided strategic technical leadership in enterprise architecture initiatives, aligning technology solutions with business objectives while introducing innovative approaches to solve complex challenges. Established technology roadmaps that enabled sustainable growth and continuous improvement of critical systems.
+- Provided strategic technical leadership in enterprise architecture initiatives, aligning technology solutions with business objectives while introducing innovative approaches to solve complex challenges
 
 ### Our Philosophy
 

@@ -8,7 +8,7 @@ At Schmitech, we empower organizations to harness the transformative power of op
 
 ---
 
-### 🤖 **Intelligent chatbots**
+### 🤖 **Intelligent Chatbots**
 
 Redefine customer service with AI-powered, context-aware chatbots. Our solutions streamline operations and deliver exceptional experiences.
 
