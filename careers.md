@@ -40,4 +40,4 @@ Even if you don't see a current opening that matches your profile, we'd love to 
 
 ---
 
-*Schmitech is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.*
+*Schmitech is an equal opportunity employer. We celebrate diversity and are committed to fostering an inclusive environment where everyone feels valued and respected.*

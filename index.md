@@ -21,14 +21,18 @@ Whether it's automating time-consuming tasks, streamlining customer service with
 
 ## Our Solutions  
 
-🔧 Transform open-source LLMs tools tailored to your business needs. [Learn more.](/services/llm-power-up)  
+🤖 Deploy intelligent chatbots to enhance customer service and streamline operations. [Learn more.](/services/chatbot-concierge)
 
-🤖 Deploy intelligent chatbots to enhance customer service and streamline operations. [Learn more.](/services/chatbot-concierge)  
+📊 Unlock actionable insights with advanced analytics powered by LLMs. [Learn more.](/services/data-whisperer)
 
-📊 Unlock actionable insights with advanced analytics powered by LLMs. [Learn more.](/services/data-whisperer)  
+🚛 Optimize logistics and transportation with AI-powered analytics and automation. [Learn more.](/services/supply-chain-intelligence)
+
+🎯 Enhance quality control across your organization with AI-powered verification. [Learn more.](/services/ai-quality-suite)
+
+🧠 Extract and leverage knowledge from your data repositories. [Learn more.](/services/knowledge-mining)
 
 ## Ready to Transform Your Business?  
 
-Let’s talk about how Schmitech can help you harness the potential of open-source AI.  
+Let's talk about how Schmitech can help you harness the potential of open-source AI.  
 
 **[Contact us today](/contact)** to start your journey toward smarter, more efficient operations.

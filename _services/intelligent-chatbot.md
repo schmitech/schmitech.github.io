@@ -1,16 +1,10 @@
 ---
 layout: page
 title: ""
-permalink: /services/chatbot-concierge/
+permalink: /services/intelligent-chatbot/
 ---
 
 # Transforming Customer Interaction with Intelligent Chatbot Solutions  
-
-In today’s fast-paced world, delivering seamless and efficient customer service is key to standing out in any industry. Enter  **Chatbot Concierge** — a cutting-edge, AI-powered solution designed to revolutionize how businesses interact with their customers while optimizing operations.  
-
-Whether you're in government, healthcare, finance, or education, our tailored chatbot services empower organizations to handle customer queries, automate tasks, and provide real-time assistance effortlessly.  
-
-## Tailored Chatbot Solutions for Every Industry  
 
 We design intelligent chatbots to meet the specific needs of diverse sectors. Here’s how our solutions can make an impact in your field:  
 
@@ -94,4 +88,4 @@ Your journey doesn’t end with deployment. We offer continuous support to keep 
 
 ## Ready to Elevate Your Customer Service?  
 
-Discover how our Chatbot Concierge service can transform your operations and customer interactions. **[Contact us](/contact)** to start your journey toward a smarter, more efficient future.
+Discover how an Intelligent Chatbot can transform your operations and customer interactions. **[Contact us](/contact)** to start your journey toward a smarter, more efficient future.
