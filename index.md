@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI-Driven Success for Your Business
+title: "Shape What's Next"
 ---
 
 Welcome to Schmitech, where we turn business challenges into opportunities through custom solutions powered by open-source AI technologies.
