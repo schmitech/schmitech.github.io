@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Shape What's Next"
+title: "Shape What's Next."
 ---
 
 Welcome to Schmitech, where we turn business challenges into opportunities through custom solutions powered by open-source AI technologies.
@@ -9,27 +9,27 @@ Our approach to innovation is pragmatic and results-driven. By collaborating clo
 
 Whether it's automating time-consuming tasks, streamlining customer service with intelligent chatbots, or uncovering insights hidden in your data, we're here to help you harness the power of AI.
 
-## Why Choose Schmitech?  
-
-🚀 Leverage the latest in open-source LLMs for transparent, cost-effective solutions.  
-
-✨ We design every solution to align with your unique business needs and objectives.  
-
-💡 Our team combines deep technical expertise with industry insights to deliver maximum impact.  
-
-🤝 We provide support and training to ensure long-term success.  
-
 ## Our Solutions  
 
-🤖 Deploy intelligent chatbots to enhance customer service and streamline operations. [Learn more.](/services/chatbot-concierge)
+🤖 [Deploy intelligent chatbots to enhance customer service and streamline operations](/services/intelligent-chatbot)
 
-📊 Unlock actionable insights with advanced analytics powered by LLMs. [Learn more.](/services/data-whisperer)
+📊 [Unlock actionable insights with advanced analytics powered by LLMs](/services/data-whisperer)
 
-🚛 Optimize logistics and transportation with AI-powered analytics and automation. [Learn more.](/services/supply-chain-intelligence)
+🚛 [Optimize logistics and transportation with AI-powered analytics and automation](/services/supply-chain-intelligence)
 
-🎯 Enhance quality control across your organization with AI-powered verification. [Learn more.](/services/ai-quality-suite)
+🎯 [Enhance quality control across your organization with AI-powered verification](/services/ai-quality-suite)
 
-🧠 Extract and leverage knowledge from your data repositories. [Learn more.](/services/knowledge-mining)
+🧠 [Extract and leverage knowledge from your data repositories](/services/knowledge-mining)
+
+## Why Choose Schmitech?
+
+🚀 Leverage the latest in open-source LLMs for transparent, cost-effective solutions  
+
+✨ We design every solution to align with your unique business needs and objectives
+
+💡 Our team combines deep technical expertise with industry insights to deliver maximum impact
+
+🤝 We provide support and training to ensure long-term success
 
 ## Ready to Transform Your Business?  
 

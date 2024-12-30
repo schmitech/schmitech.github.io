@@ -6,9 +6,9 @@ permalink: /services/knowledge-mining/
 
 Unlock the hidden value in your organization's data repositories with our Knowledge Mining & Discovery service. Using advanced open-source LLMs, we help you transform unstructured information into actionable knowledge and competitive insights.
 
-## The Knowledge Challenge
+## The Challenge
 
-Organizations today are drowning in data but starving for insights. Valuable knowledge is buried in research papers, internal documents, emails, and the minds of expert employees. Our Knowledge Mining & Discovery service helps you extract, organize, and leverage this knowledge effectively.
+Organizations today are drowning in data but starving for insights. Valuable knowledge is buried in research papers, internal documents, emails, and the minds of expert employees. Wee help you you extract, organize, and leverage this knowledge effectively.
 
 ## Core Capabilities
 
@@ -78,13 +78,6 @@ Speed up your research and development processes:
 - **Manufacturing**: Preserve technical expertise and improve processes
 - **R&D Organizations**: Speed up innovation and discovery
 - **Technology**: Track emerging trends and technical developments
-
-## Success Stories
-
-- Helped a pharmaceutical company reduce drug candidate identification time by 60%
-- Enabled a university to create a comprehensive research knowledge base spanning 50 years
-- Assisted a manufacturing firm in preserving critical knowledge from retiring experts
-- Supported a legal firm in building an automated case law analysis system
 
 ## Ready to Transform Your Knowledge Management?
 
