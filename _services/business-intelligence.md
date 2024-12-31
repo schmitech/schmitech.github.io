@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-permalink: /services/data-whisperer/
+permalink: /services/business-intelligence/
 ---
 
 # Unlock the Power of Your Data

@@ -8,9 +8,9 @@ At Schmitech, we empower organizations to harness the transformative power of op
 
 ---
 
-### 🤖 **Intelligent Chatbots**
+### 🤖 **Intelligent Agents**
 
-Redefine customer service with AI-powered, context-aware chatbots. Our solutions streamline operations and deliver exceptional experiences.
+Redefine customer service with AI-powered, context-aware agents. Our solutions streamline operations and deliver exceptional experiences.
 
 ### Key Features:
 - **Industry-Specific Solutions**
@@ -24,7 +24,7 @@ Redefine customer service with AI-powered, context-aware chatbots. Our solutions
    - Multi-language support to reach diverse audiences
    - Custom workflow automation tailored to your needs
 
-[Discover Intelligent Chatbot →](/services/intelligent-chatbot)
+[Discover Intelligent agent →](/services/intelligent-agents)
 
 ---
 
@@ -47,7 +47,7 @@ Transform your logistics and transportation operations with AI-powered optimizat
 
 ---
 
-### 📊 **Data Whisperer**
+### 📊 **Business Inteligence**
 
 Turn raw data into actionable insights with our advanced analytics services. Make smarter decisions backed by cutting-edge AI.
 

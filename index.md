@@ -23,13 +23,13 @@ At Schmitech, we're driven by innovation - it's the heartbeat of our company and
 
 ### Use Cases
 
-🤖 [Deploy intelligent chatbots to enhance customer service and streamline operations](/services/intelligent-chatbot)
+🤖 [Deploy intelligent agents to enhance customer service](/services/intelligent-agents)
 
-📊 [Unlock actionable insights with advanced analytics powered by LLMs](/services/data-whisperer)
+📊 [Unlock actionable insights with advanced analytics](/services/business-intelligence)
 
-🚛 [Optimize logistics and transportation with AI-powered analytics and automation](/services/supply-chain-intelligence)
+🚛 [Optimize logistics and transportation with AI-powered automation](/services/supply-chain-intelligence)
 
-🎯 [Enhance quality control across your organization with AI-powered verification](/services/ai-quality-suite)
+🎯 [Enhance quality control across your organization with AI-driven verifications](/services/ai-quality-suite)
 
 🧠 [Extract and leverage knowledge from your data repositories](/services/knowledge-mining)
 
