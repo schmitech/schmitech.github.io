@@ -24,7 +24,7 @@ Redefine customer service with AI-powered, context-aware agents. Our solutions s
    - Multi-language support to reach diverse audiences
    - Custom workflow automation tailored to your needs
 
-[Discover Intelligent agent →](/services/intelligent-agents)
+[Learn More →](/services/intelligent-agents)
 
 ---
 
@@ -43,7 +43,7 @@ Transform your logistics and transportation operations with AI-powered optimizat
    - Last-mile delivery enhancement
    - Real-time tracking and monitoring
 
-[Learn About Supply Chain Intelligence →](/services/supply-chain-intelligence)
+[Learn More →](/services/supply-chain-intelligence)
 
 ---
 
@@ -62,7 +62,7 @@ Turn raw data into actionable insights with our advanced analytics services. Mak
    - Get the full picture with comprehensive reports
    - Leverage custom analysis tools designed for your business
 
-[Learn More About Data Whisperer →](/services/business-intelligence)
+[Learn More →](/services/business-intelligence)
 
 ---
 
@@ -83,7 +83,7 @@ Enhance quality control across your organization with AI-powered verification an
    - Multilingual validation support
    - Custom quality metrics and reporting
 
-[Explore AI Quality Assurance →](/services/ai-quality-suite)
+[Learn More →](/services/ai-quality-suite)
 
 ---
 
@@ -104,7 +104,7 @@ Transform your organization's data into actionable knowledge with our advanced m
    - Automated knowledge base creation
    - Smart documentation linking
 
-[Discover Knowledge Mining →](/services/knowledge-mining)
+[Learn More →](/services/knowledge-mining)
 
 ---
 
