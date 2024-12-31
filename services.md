@@ -47,7 +47,7 @@ Transform your logistics and transportation operations with AI-powered optimizat
 
 ---
 
-### 📊 **Business Inteligence**
+### 📊 **Business Intelligence**
 
 Turn raw data into actionable insights with our advanced analytics services. Make smarter decisions backed by cutting-edge AI.
 
@@ -62,7 +62,7 @@ Turn raw data into actionable insights with our advanced analytics services. Mak
    - Get the full picture with comprehensive reports
    - Leverage custom analysis tools designed for your business
 
-[Learn More About Data Whisperer →](/services/data-whisperer)
+[Learn More About Data Whisperer →](/services/business-intelligence)
 
 ---
 
