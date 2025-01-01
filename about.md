@@ -33,9 +33,9 @@ Key achievements throughout his career include:
 ### Our Philosophy
 
 We believe that AI should be accessible, practical, and transformative for businesses of any size. This drives our approach:
-- We focus on **high-impact solutions** that deliver measurable results within weeks, not months
+- We focus on **high-impact solutions** that deliver measurable results
 - We create **sustainable systems** that grow with your business
-- We ensure **knowledge transfer** is built into every engagement, empowering your team
+- We ensure **knowledge transfer** is built into every engagement
 
 Our commitment goes beyond implementation—we're building long-term partnerships to help businesses thrive in an AI-enabled future.
 

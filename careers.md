@@ -4,35 +4,41 @@ title: Careers
 permalink: /careers/
 ---
 
-At Schmitech, we craft AI solutions that transform how businesses operate. As a growing consulting company in the AI space, we offer unique opportunities to work with cutting-edge technology while making a real impact on how businesses succeed.
+At Schmitech, we're always on the lookout for exceptional individuals who are enthusiastic about pushing the boundaries of technology and innovation. We seek those who are eager to learn, collaborate, and make a meaningful impact in these fields:
 
-### What We Look For
+* **Open-source AI and Machine Learning:** Individuals who are excited about the possibilities of open-source AI and machine learning and who are eager to contribute to the development of cutting-edge AI and ML technologies. This includes expertise in areas such as deep learning, natural language processing, computer vision, and reinforcement learning.  
 
-We're constantly seeking talented individuals passionate about:
-- Open-source AI and machine learning
-- Software development and engineering
-- Solution architecture and cloud technologies
-- Business analysis and client relations
+* **Software Development and Engineering:** Software developers and engineers who are proficient in a variety of programming languages and who have experience in developing and maintaining complex applications. This includes expertise in areas such as full-stack development, cloud-native development, and DevOps.
 
-### Why Schmitech?
+* **Solution Architecture and Cloud Technologies:** Solution architects who have a deep understanding of cloud technologies and who can design and implement scalable and reliable cloud-based solutions. This includes expertise in areas such as cloud architecture, cloud migration, and cloud security.
 
-🚀 **Innovation First**: Work directly with the latest AI technologies and shape their practical applications
-
-💡 **Real Impact**: See your work directly transform how businesses operate and grow
-
-🌱 **Growth Focus**: Benefit from mentorship, learning opportunities, and hands-on experience with emerging technologies
-
-🏠 **Flexible Work**: Enjoy our hybrid work model with options for remote collaboration
+* **Business Analysis and Client Relations:** Business analysts who can bridge the gap between technology and business and who can effectively communicate with clients to understand their needs and requirements.
 
 ### Our Hiring Process
 
-We believe in keeping things simple and human-centered:
+At Schmitech, we believe that the hiring process should be straightforward, efficient, and focused on getting to know you as an individual.
 
-1. **Initial Discussion**: Share your story, interests, and aspirations with us
-2. **Technical Alignment**: Explore how your skills match our needs
-3. **Final Interview**: Discuss real-world challenges and solutions
+We value your time and experience, and we believe that the best way to assess your fit is through open and honest conversations. Our hiring process involves:
 
-No lengthy assessments or complex puzzles - we value your time and experience.
+**1\. Initial Discussion:**
+
+* This is an opportunity for us to connect on a personal level. We're interested in hearing your story, your career aspirations, and what motivates you.  
+* We want to understand your interests and how they align with our company culture and values.  
+* Think of this as a casual conversation where you can share your experiences and ask questions about what we do.
+
+**2\. Technical Alignment:**
+
+* This stage allows us to delve deeper into your technical skills and expertise.  
+* We'll explore your proficiency in relevant technologies and assess how your skillset aligns with the requirements of the role.  
+* This may involve a technical discussion, a code review, or a practical exercise, depending on the position.  
+* Our goal is to gain a clear understanding of your technical capabilities and how you approach problem-solving.
+
+**3\. Final Interview:**
+
+* This is where we bring everything together.  
+* We'll discuss real-world scenarios and challenges that you might encounter in the role.  
+* We're interested in hearing how you think critically, analyze situations, and develop solutions.  
+* This is also an opportunity for you to learn more about the day-to-day responsibilities of the position and the team you'll be working with.
 
 Even if you don't see a current opening that matches your profile, we'd love to connect. Great talent is always welcome at Schmitech.
 
