@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Shape What's Next."
+title: "Accelerate Your Digital Evolution."
 ---
 
 Schmitech transforms your most pressing business challenges into growth opportunities with tailored AI solutions. From automating tasks to enhancing customer engagement and unlocking data-driven insights, we help you harness the full power of AI to achieve measurable results.
