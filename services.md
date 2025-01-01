@@ -66,27 +66,6 @@ Turn raw data into actionable insights with our advanced analytics services. Mak
 
 ---
 
-### 🎯 **AI Quality Assurance Suite**
-
-Enhance quality control across your organization with AI-powered verification and validation. Our comprehensive suite ensures consistency and accuracy in documents, code, and content.
-
-### Key Features:
-- **Document Verification**
-   - Automated contract review and compliance checking
-   - Error detection in technical documentation
-   - Cross-document consistency verification
-   - SOP validation and improvement recommendations
-
-- **Advanced Capabilities**
-   - Code quality assessment and optimization
-   - Content consistency verification
-   - Multilingual validation support
-   - Custom quality metrics and reporting
-
-[Learn More →](/services/ai-quality-suite)
-
----
-
 ### 🧠 **Knowledge Mining & Discovery**
 
 Transform your organization's data into actionable knowledge with our advanced mining and discovery solutions. Unlock insights buried in documents, research, and expertise.
