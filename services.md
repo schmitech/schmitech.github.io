@@ -27,8 +27,6 @@ Redefine customer service with AI-powered, context-aware agents. Our solutions s
 
 [Learn More →](/services/intelligent-agents)
 
----
-
 ### Supply Chain Intelligence
 
 Transform your logistics and transportation operations with AI-powered optimization and intelligence. Reduce costs and improve efficiency across your entire supply chain.
@@ -47,8 +45,6 @@ Transform your logistics and transportation operations with AI-powered optimizat
 
 [Learn More →](/services/supply-chain-intelligence)
 
----
-
 ### Business Intelligence
 
 Turn raw data into actionable insights with our advanced analytics services. Make smarter decisions backed by cutting-edge AI.
@@ -66,8 +62,6 @@ Turn raw data into actionable insights with our advanced analytics services. Mak
    - Leverage custom analysis tools designed for your business
 
 [Learn More →](/services/business-intelligence)
-
----
 
 ### Knowledge Mining & Discovery
 
@@ -88,8 +82,6 @@ Transform your organization's data into actionable knowledge with our advanced m
    - Smart documentation linking
 
 [Learn More →](/services/knowledge-mining)
-
----
 
 ### Custom Solutions
 

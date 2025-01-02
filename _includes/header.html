@@ -72,8 +72,8 @@
     position: absolute;
     top: 9px;
     right: 15px;
-    background-color: white;
-    border: 1px solid #e8e8e8;
+    background-color: #252525;
+    border: 1px solid #404040;
     border-radius: 5px;
     text-align: right;
   }
@@ -88,7 +88,12 @@
     text-align: center;
   }
 
+  .site-nav .menu-icon svg path {
+    fill: #ffffff;
+  }
+
   .site-nav .trigger {
+    background-color: #252525;
     clear: both;
     display: none;
     padding: 5px 10px;
@@ -135,12 +140,12 @@ body {
 }
 
 .site-header {
-  background-color: #252525;
+  background-color: #1a1a1a;
   border-color: #404040;
 }
 
 .site-nav {
-  background-color: #252525;
+  background-color: #1a1a1a;
 }
 
 a {
@@ -153,8 +158,12 @@ a {
 
 @media screen and (max-width: 600px) {
   .site-nav {
-    background-color: #252525;
-    border-color: #404040;
+    background-color: #1a1a1a;
+    border: 1px solid #404040;
+  }
+
+  .site-nav .trigger {
+    background-color: #1a1a1a;
   }
 }
 </style>
