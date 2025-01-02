@@ -4,6 +4,8 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
+{% include logo.html %}
+
 Last updated: December 27, 2024
 
 ### Overview

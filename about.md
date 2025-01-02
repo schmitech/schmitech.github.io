@@ -1,14 +1,17 @@
 ---
 layout: page
-title: About Us
+title: "About Us"
 permalink: /about/
+hide_title: true
 ---
 
-Launched in December 2024, Schmitech specializes in democratizing AI technology for small and medium-sized businesses across North America. We harness powerful open-source AI innovations to create practical, accessible solutions that drive real business growth.
+{% include logo.html %}
 
-At the helm is **<a href="https://www.linkedin.com/in/remsy" target="_blank" rel="noopener noreferrer">Remsy Schmilinsky</a>**, whose 20-year journey in technology has been marked by a singular focus: making powerful technology accessible and practical for businesses of all sizes. Under Remsy's leadership, Schmitech has emerged as a trusted partner in digital innovation, known for delivering solutions that combine technical excellence with practical business value.
+## Our History
 
-With expertise spanning banking, transportation, government, and logistics sectors, Remsy brings both technical depth and business acumen to every project. His background in Computer Science and fluency in English, French, and Spanish enable him to bridge technical and cultural gaps, ensuring solutions that truly serve their intended purpose.
+Launched in December 2024, Schmitech brings a fresh perspective to AI innovation for small and medium-sized businesses across North America. While the company itself is new, it’s built on the foundation of its founder's experience in transforming complex technology into practical solutions that drive measurable business outcomes.
+
+At the helm is **<a href="https://www.linkedin.com/in/remsy" target="_blank" rel="noopener noreferrer">Remsy Schmilinsky</a>**, whose two-decade journey in technology has been driven by one mission: empowering businesses to harness advanced technology to achieve meaningful progress. With experience spanning banking, transportation, government, and logistics sectors, Remsy brings a unique blend of technical depth and business insight to every project.
 
 Key achievements throughout his career include:
 

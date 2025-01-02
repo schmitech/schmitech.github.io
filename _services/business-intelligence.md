@@ -1,10 +1,13 @@
 ---
 layout: page
-title: ""
+title: "Business Intelligence"
 permalink: /services/business-intelligence/
+hide_title: true
 ---
 
-# Unlock the Power of Your Data
+{% include logo.html %}
+
+## Unlock the Power of Your Data
 
 We deliver a wide range of services to help you extract, analyze, and act on valuable insights from your data.  
 
@@ -78,15 +81,7 @@ Our structured implementation process ensures your data journey is smooth and im
    - Deploy the system with minimal disruption.  
    - Train users to maximize adoption and effectiveness.  
    - Establish performance monitoring and support systems.  
-   - Transfer knowledge for ongoing success.  
-
-## Dedicated Ongoing Support  
-
-We’re with you every step of the way, even after implementation:  
-- Maintain system performance with regular updates.  
-- Provide user support to address any challenges.  
-- Optimize systems to adapt to your evolving needs.  
-- Continuously improve solutions to ensure long-term success.  
+   - Transfer knowledge for ongoing success.
 
 ## Ready to Take Your Data to the Next Level?  
 

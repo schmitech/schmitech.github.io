@@ -2,7 +2,10 @@
 layout: page
 title: Careers
 permalink: /careers/
+hide_title: true
 ---
+
+{% include logo.html %}
 
 At Schmitech, we're always on the lookout for exceptional individuals who are enthusiastic about pushing the boundaries of technology and innovation. We seek those who are eager to learn, collaborate, and make a meaningful impact in these fields:
 

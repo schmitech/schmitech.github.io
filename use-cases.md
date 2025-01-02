@@ -2,7 +2,10 @@
 layout: page
 title: Use Cases
 permalink: /use-cases/
+hide_title: true
 ---
+
+{% include logo.html %}
 
 Explore our latest thoughts on AI, machine learning, and how businesses can leverage these technologies.
 

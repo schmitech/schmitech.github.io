@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Knowledge Mining & Discovery
+title: "Knowledge Mining"
 permalink: /services/knowledge-mining/
+hide_title: true
 ---
+
+{% include logo.html %}
 
 Many organizations are drowning in data but starving for insights. Valuable knowledge is buried in research papers, internal documents, emails, and the minds of expert employees. Wee help you you extract, organize, and leverage this knowledge effectively.
 

@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Supply Chain Intelligence
+title: "Supply Chain Intelligence"
 permalink: /services/supply-chain-intelligence/
+hide_title: true
 ---
+
+{% include logo.html %}
 
 Transform your logistics and transportation operations with AI-powered optimization and intelligence. Our solutions help you reduce costs, improve efficiency, and make data-driven decisions across your entire supply chain.
 

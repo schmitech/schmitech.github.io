@@ -7,6 +7,8 @@ excerpt: "Discover how AI-powered sentiment analysis transforms customer feedbac
 categories: [AI, Machine Learning, Customer Experience]
 ---
 
+{% include logo.html %}
+
 As customer expectations grow and feedback pours in through countless channels, organizations face an uphill battle to make sense of the data. Sentiment analysis, a game-changing technique in Natural Language Processing (NLP), allows businesses to evaluate text and uncover its emotional tone—be it positive, negative, neutral, or mixed. This insight empowers companies to respond swiftly, improving customer satisfaction and retention.
 
 ## The Business Challenges of Feedback Management
