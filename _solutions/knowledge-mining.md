@@ -1,17 +1,18 @@
 ---
 layout: page
 title: "Knowledge Mining"
-permalink: /services/knowledge-mining/
+permalink: /solutions/knowledge-mining/
 hide_title: true
 ---
 
 {% include logo.html %}
 
+## Knowledge Mining
+
 Many organizations are drowning in data but starving for insights. Valuable knowledge is buried in research papers, internal documents, emails, and the minds of expert employees. Wee help you you extract, organize, and leverage this knowledge effectively.
 
-## Core Capabilities
-
 ### 📚 Automated Research Synthesis
+
 Transform your research and competitive intelligence processes:
 - Research paper analysis and comprehensive summarization
 - Patent landscape mapping and trend identification
@@ -21,6 +22,7 @@ Transform your research and competitive intelligence processes:
 - Citation network analysis and visualization
 
 ### 🗄️ Internal Knowledge Management
+
 Preserve and leverage your organization's institutional knowledge:
 - Legacy document digitization and analysis
 - Expert knowledge capture and preservation
@@ -30,6 +32,7 @@ Preserve and leverage your organization's institutional knowledge:
 - Project history mining and lesson extraction
 
 ### 🔬 Discovery Acceleration
+
 Speed up your research and development processes:
 - Scientific literature mining and correlation
 - Drug discovery pathway identification
@@ -37,28 +40,6 @@ Speed up your research and development processes:
 - Research gap identification and opportunity mapping
 - Hypothesis generation assistance
 - Cross-domain knowledge synthesis
-
-## Implementation Process
-
-1. **Discovery Phase**
-   - Assess your current knowledge management practices
-   - Identify key knowledge sources and gaps
-   - Define specific use cases and success metrics
-
-2. **Solution Design**
-   - Configure AI models for your domain
-   - Design knowledge extraction pipelines
-   - Create custom taxonomies and ontologies
-
-3. **Implementation**
-   - Set up secure data processing workflows
-   - Install knowledge management systems
-   - Train teams on new tools and processes
-
-4. **Continuous Improvement**
-   - Regular system optimization
-   - Knowledge base expansion
-   - Performance monitoring and refinement
 
 ## Industry Applications
 

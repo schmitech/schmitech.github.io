@@ -1,11 +1,18 @@
 ---
 layout: page
-title: ""
+title: "Schmitech"
+permalink: /
+hide_title: true
 ---
 
 {% include logo.html %}
 
-Schmitech transforms your most pressing business challenges into growth opportunities with tailored AI solutions. From automating tasks to enhancing customer engagement and unlocking data-driven insights, we help you harness the full power of AI to achieve measurable results.
+
+## AI Solutions for Business Growth.
+
+Schmitech transforms your most pressing business challenges into growth opportunities with tailored AI solutions.
+
+From automating tasks to enhancing customer engagement and unlocking data-driven insights, we help you harness the full power of AI to achieve measurable results.
 
 ### Why Choose Schmitech?
 
@@ -19,15 +26,15 @@ Our flexible engagement model lets you start small and scale based on proven res
 
 - We guide you through the world of AI, helping you choose the right solution from leading platforms, proven frameworks, and open-source models.
 
-### Use Cases
+### Solutions
 
--  [Intelligent Agents](/services/intelligent-agents) can provide 24/7 support, handle routine inquiries, personalize interactions, and escalate complex issues seamlessly. This can lead to improved customer satisfaction, reduced response times, and increased agent productivity. 
+-  [Intelligent Agents](/solutions/intelligent-agents) can provide 24/7 support, handle routine inquiries, personalize interactions, and escalate complex issues seamlessly. This can lead to improved customer satisfaction, reduced response times, and increased agent productivity. 
 
--  [Leverage advanced analytics](/services/business-intelligence) to identify trends, patterns, and opportunities within your data. This can enable data-driven decision-making, optimize processes, identify customer segments, and gain a competitive edge.
+-  [Leverage advanced analytics](/solutions/business-intelligence) to identify trends, patterns, and opportunities within your data. This can enable data-driven decision-making, optimize processes, identify customer segments, and gain a competitive edge.
 
-- [Streamline your supply chain with AI-powered automation](/services/supply-chain-intelligence). Optimize routes, predict demand, track shipments in real-time, and automate warehouse operations. This can result in cost savings, improved efficiency, and enhanced visibility across your logistics network.
+- [Streamline your supply chain with AI-powered automation](/solutions/supply-chain-intelligence). Optimize routes, predict demand, track shipments in real-time, and automate warehouse operations. This can result in cost savings, improved efficiency, and enhanced visibility across your logistics network.
 
-- [Unlock valuable insights hidden within your data repositories](/services/knowledge-mining). Identify trends, extract entities, and discover relationships using knowledge mining techniques. This can drive innovation, improve decision-making, and uncover new business opportunities.
+- [Unlock valuable insights hidden within your data repositories](/solutions/knowledge-mining). Identify trends, extract entities, and discover relationships using knowledge mining techniques. This can drive innovation, improve decision-making, and uncover new business opportunities.
 
 ### Start Seeing Results
 

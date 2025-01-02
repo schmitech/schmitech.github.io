@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "Intelligent Agents"
-permalink: /services/intelligent-agents/
+permalink: /solutions/intelligent-agents/
 hide_title: true
 ---
 
 {% include logo.html %}
 
-## Smarter Customer Interactions
+## Intelligent Agents
 
 In today’s fast-paced digital world, exceptional customer service and operational efficiency are non-negotiable. Intelligent agents offer a game-changing solution with 24/7 support, instant responses, and personalized interactions. At Schmitech, we specialize in crafting custom agents designed to meet the unique demands of your industry, transforming how you connect with your customers.
 

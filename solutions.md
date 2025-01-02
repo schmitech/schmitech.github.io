@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Services
-permalink: /services/
+title: Solutions
+permalink: /solutions/
+hide_title: true
 ---
 
 {% include logo.html %}
@@ -25,7 +26,7 @@ Redefine customer service with AI-powered, context-aware agents. Our solutions s
    - Multi-language support to reach diverse audiences
    - Custom workflow automation tailored to your needs
 
-[Learn More →](/services/intelligent-agents)
+[Learn More →](/solutions/intelligent-agents)
 
 ### Supply Chain Intelligence
 
@@ -43,7 +44,7 @@ Transform your logistics and transportation operations with AI-powered optimizat
    - Last-mile delivery enhancement
    - Real-time tracking and monitoring
 
-[Learn More →](/services/supply-chain-intelligence)
+[Learn More →](/solutions/supply-chain-intelligence)
 
 ### Business Intelligence
 
@@ -61,7 +62,7 @@ Turn raw data into actionable insights with our advanced analytics services. Mak
    - Get the full picture with comprehensive reports
    - Leverage custom analysis tools designed for your business
 
-[Learn More →](/services/business-intelligence)
+[Learn More →](/solutions/business-intelligence)
 
 ### Knowledge Mining & Discovery
 
@@ -81,7 +82,7 @@ Transform your organization's data into actionable knowledge with our advanced m
    - Automated knowledge base creation
    - Smart documentation linking
 
-[Learn More →](/services/knowledge-mining)
+[Learn More →](/solutions/knowledge-mining)
 
 ### Custom Solutions
 

@@ -2,7 +2,7 @@ title: Schmitech
 description: Custom AI Solutions
 email: info@schmitech.ai
 baseurl: ""
-url: "https://schmitech.ai"
+url: "https://www.schmitech.ai"
 
 # Theme settings
 theme: minima
@@ -22,7 +22,7 @@ plugins:
 # Navigation
 header_pages:
   - about.md
-  - services.md
+  - solutions.md
   - use-cases.md
   - careers.md
   - contact.md
@@ -32,7 +32,7 @@ timezone: America/Toronto
 
 # Collections
 collections:
-  services:
+  solutions:
     output: true
     permalink: /:collection/:name
   posts:
