@@ -11,7 +11,7 @@ hide_title: true
 
 Transform your logistics and transportation operations with AI-powered optimization and intelligence. Our solutions help you reduce costs, improve efficiency, and make data-driven decisions across your entire supply chain.
 
-### 📊 Predictive Analytics & Optimization
+### 📊 Predictive Analytics
 - **Route Optimization**: Cut fuel costs and delivery times with AI-powered route planning and real-time traffic prediction
 - **Demand Forecasting**: Anticipate market demands with machine learning models
 - **Fleet Management**: Optimize vehicle utilization and maintenance scheduling
