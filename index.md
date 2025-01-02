@@ -17,8 +17,6 @@ Our flexible engagement model lets you start small and scale based on proven res
 
 - Stay in control with vendor-neutral solutions powered by open standards and flexible technologies.
 
-- We provide training, documentation, and dedicated support to empower your team to own and evolve any solution.
-
 - We guide you through the world of AI, helping you choose the right solution from leading platforms, proven frameworks, and open-source models.
 
 ### Use Cases
