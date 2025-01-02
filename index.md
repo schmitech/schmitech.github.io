@@ -7,7 +7,6 @@ hide_title: true
 
 {% include logo.html %}
 
-
 ## AI Solutions for Business Growth.
 
 Schmitech transforms your most pressing business challenges into growth opportunities with tailored AI solutions.
