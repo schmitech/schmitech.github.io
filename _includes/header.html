@@ -1,6 +1,8 @@
 <header class="site-header">
   <div class="wrapper">
     <div class="header-content">
+      <img src="/assets/images/icon.png" alt="Icon" class="nav-icon">
+      
       {%- assign default_paths = site.pages | map: "path" -%}
       {%- assign page_paths = site.header_pages | default: default_paths -%}
       {%- assign titles_size = site.pages | map: "title" | join: '' | size -%}
@@ -43,7 +45,7 @@
 
 .header-content {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   padding: 0.5rem 0;
 }
@@ -65,6 +67,7 @@
 
 @media screen and (max-width: 600px) {
   .header-content {
+    justify-content: space-between;
     padding: 0.5rem;
   }
   
@@ -109,6 +112,10 @@
     display: block;
     padding: 5px 10px;
     margin: 0;
+  }
+
+  .nav-icon {
+    height: 35px;
   }
 }
 
@@ -165,6 +172,13 @@ a {
   .site-nav .trigger {
     background-color: #1a1a1a;
   }
+}
+
+/* Add these new styles */
+.nav-icon {
+  height: 40px;  /* Adjust this value to match your nav height */
+  width: auto;
+  margin-right: 1rem;
 }
 </style>
 <script src="//code.tidio.co/k0jqjdgyyuxumf1nxyezro3p3tcndagu.js" async></script>
