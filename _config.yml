@@ -7,7 +7,7 @@ url: "https://schmitech.ai"
 # Theme settings
 theme: minima
 minima:
-  skin: classic
+  skin: dark
   social_links:
     - platform: github
       user_url: "https://github.com/schmitech"
