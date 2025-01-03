@@ -31,8 +31,6 @@ Our flexible engagement model lets you start small and scale based on proven res
 
 -  [Leverage advanced analytics](/solutions/business-intelligence) to identify trends, patterns, and opportunities within your data. This can enable data-driven decision-making, optimize processes, identify customer segments, and gain a competitive edge.
 
-- [Streamline your supply chain with AI-powered automation](/solutions/supply-chain-intelligence). Optimize routes, predict demand, track shipments in real-time, and automate warehouse operations. This can result in cost savings, improved efficiency, and enhanced visibility across your logistics network.
-
 - [Unlock valuable insights hidden within your data repositories](/solutions/knowledge-mining). Identify trends, extract entities, and discover relationships using knowledge mining techniques. This can drive innovation, improve decision-making, and uncover new business opportunities.
 
 ### Start Seeing Results

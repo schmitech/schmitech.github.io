@@ -28,24 +28,6 @@ Redefine customer service with AI-powered, context-aware agents. Our solutions s
 
 [Learn More →](/solutions/intelligent-agents)
 
-### Supply Chain Intelligence
-
-Transform your logistics and transportation operations with AI-powered optimization and intelligence. Reduce costs and improve efficiency across your entire supply chain.
-
-#### Predictive Analytics
-  
-   - Route optimization and real-time traffic prediction
-   - Demand forecasting and inventory management
-   - Fleet maintenance and utilization optimization
-   
-#### Smart Operations
-
-   - Warehouse automation and process optimization
-   - Last-mile delivery enhancement
-   - Real-time tracking and monitoring
-
-[Learn More →](/solutions/supply-chain-intelligence)
-
 ### Business Intelligence
 
 Turn raw data into actionable insights with our advanced analytics services. Make smarter decisions backed by cutting-edge AI.
