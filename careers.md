@@ -7,15 +7,15 @@ hide_title: true
 
 {% include logo.html %}
 
+## Careers at Schmitech
+
 At Schmitech, we're always on the lookout for exceptional individuals who are enthusiastic about pushing the boundaries of technology and innovation. We seek those who are eager to learn, collaborate, and make a meaningful impact in these fields:
 
-* **Open-source AI and Machine Learning:** Individuals who are excited about the possibilities of open-source AI and machine learning and who are eager to contribute to the development of cutting-edge AI and ML technologies. This includes expertise in areas such as deep learning, natural language processing, computer vision, and reinforcement learning.  
+* Individuals excited by open-source AI and ML and eager to contribute to developing cutting-edge AI and ML technologies, with expertise in areas such as deep learning, natural language processing, computer vision, and reinforcement learning.
 
-* **Software Development and Engineering:** Software developers and engineers who are proficient in a variety of programming languages and who have experience in developing and maintaining complex applications. This includes expertise in areas such as full-stack development, cloud-native development, and DevOps.
+* Software engineers with experience in developing and maintaining complex applications, and expertise in full-stack, cloud-native development, and DevOps.
 
-* **Solution Architecture and Cloud Technologies:** Solution architects who have a deep understanding of cloud technologies and who can design and implement scalable and reliable cloud-based solutions. This includes expertise in areas such as cloud architecture, cloud migration, and cloud security.
-
-* **Business Analysis and Client Relations:** Business analysts who can bridge the gap between technology and business and who can effectively communicate with clients to understand their needs and requirements.
+* Solution Architects with expertise in cloud architecture, migration, and security.
 
 ### Our Hiring Process
 

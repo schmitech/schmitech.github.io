@@ -7,7 +7,9 @@ hide_title: true
 
 {% include logo.html %}
 
-Explore our portfolio of Proofs of Concept and Prototypes to see our innovative solutions in action. If any example resonates with you, let us know—we’d be delighted to discuss the details and tailor it to your unique needs.
+Explore our catalog of Proofs of Concept and Prototypes to see our solutions in action. 
+
+See something that sparks your interest? [Let's talk!](/contact){: .cta-button}. We're eager to share the details and explore how we can tailor these solutions to your unique needs.
 
 <div class="post-list">
   {% for post in site.use-cases %}

@@ -9,9 +9,13 @@ hide_title: true
 
 ## Our History
 
-Launched in December 2024, Schmitech brings a fresh perspective to AI innovation for small and medium-sized businesses across North America. While the company itself is new, it’s built on the foundation of its founder's experience in transforming complex technology into practical solutions that drive measurable business outcomes.
+Launched in December 2024, Schmitech brings a fresh perspective to AI innovation for small and medium-sized businesses across North America.
 
-At the helm is **<a href="https://www.linkedin.com/in/remsy" target="_blank" rel="noopener noreferrer">Remsy Schmilinsky</a>**, whose two-decade journey in technology has been driven by one mission: empowering businesses to harness advanced technology to achieve meaningful progress. With experience spanning banking, transportation, government, and logistics sectors, Remsy brings a unique blend of technical depth and business insight to every project.
+While the company itself is new, it’s built on the foundation of its founder's experience in transforming complex technology into practical solutions that drive measurable business outcomes.
+
+At the helm is **<a href="https://www.linkedin.com/in/remsy" target="_blank" rel="noopener noreferrer">Remsy Schmilinsky</a>**, whose two-decade journey in technology has been driven by one mission: empowering businesses to harness advanced technology to achieve meaningful progress.
+
+With experience spanning banking, transportation, government, and logistics sectors, Remsy brings a unique blend of technical depth and business insight to every project.
 
 ### Our Philosophy
 
