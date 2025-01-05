@@ -1,38 +1,42 @@
 ---
 layout: page
-title: "Schmitech"
+title: "Schmitech | Enterprise AI Solutions"
 permalink: /
 hide_title: true
 ---
 
 {% include logo.html %}
 
-## AI Solutions for Business Growth.
 
-Schmitech transforms your most pressing business challenges into growth opportunities with tailored AI solutions.
+## Elevate Efficiency with Tailored AI Solutions
 
-From automating tasks to enhancing customer engagement and unlocking data-driven insights, we help you harness the full power of AI to achieve measurable results.
+Unlock the full potential of artificial intelligence with customized, self-hosted solutions that put you in control. At Schmitech, we combine open-source Language Models (SMLs or LLMs) with autonomous AI agents to solve your most pressing business challenges.
 
-### Why Choose Schmitech?
+## Why hoose Schmitech
 
-Our flexible engagement model lets you start small and scale based on proven results:
+- **You Are in Full Control**: maintain complete control over your data and ensure it's stored and processed securely within your own dedicated cloud environment or on your own servers.
+  
+- **Cost-Effective Scaling**: Leverage automation and resource optimization to streamline your operations, reduce waste, and achieve significant cost savings.
+    
+- **Enterprise-Ready Integration**: Seamless deployment within your existing systems and workflows
 
-- We demonstrate value through working prototypes, letting you validate solutions before making any investment.
+## Getting Started is Easy
 
-- No infrastructure? No worries. We help you get started on our own AWS, Google Cloud, or Azure accounts using Infrastructure as Code tools for fast, reliable provisioning and deployment.
+1. **Free Consultation**: Share your challenges and goals with our experts
+2. **Proof of Value**: We demonstrate results through working prototypes
+3. **Seamless Implementation**: Scale based on validated success
 
-- Stay in control with vendor-neutral solutions powered by open standards and flexible technologies.
+## Industry Solutions
 
-- We guide you through the world of AI, helping you choose the right solution from leading platforms, proven frameworks, and open-source models.
+We offer specialized solutions for:
 
-### Solutions
+- **Financial Services**: Automate compliance, enhance risk assessment, streamline customer onboarding
+- **Healthcare**: Optimize patient communication, automate administrative tasks, improve claims processing
+- **E-commerce**: Enhance customer service, optimize inventory, automate order processing
+- **And More**: Custom solutions for your industry's unique challenges
 
--  [Intelligent Agents](/solutions/intelligent-agents) can provide 24/7 support, handle routine inquiries, personalize interactions, and escalate complex issues seamlessly. This can lead to improved customer satisfaction, reduced response times, and increased agent productivity. 
+## Ready to Transform Your Business?
 
--  [Leverage advanced analytics](/solutions/business-intelligence) to identify trends, patterns, and opportunities within your data. This can enable data-driven decision-making, optimize processes, identify customer segments, and gain a competitive edge.
+[Schedule a Free Consultation →](/contact){: .cta-button}
 
-- [Unlock valuable insights hidden within your data repositories](/solutions/knowledge-mining). Identify trends, extract entities, and discover relationships using knowledge mining techniques. This can drive innovation, improve decision-making, and uncover new business opportunities.
-
-### Start Seeing Results
-
-**[Contact us today](/contact)** for a free consultation and see how we can help you achieve measurable results from day one.
+Discover how our enterprise-grade AI solutions can drive efficiency, reduce costs, and create competitive advantages for your business.

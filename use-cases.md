@@ -7,10 +7,10 @@ hide_title: true
 
 {% include logo.html %}
 
-Explore our latest thoughts on AI, machine learning, and how businesses can leverage these technologies.
+Explore our portfolio of Proofs of Concept and Prototypes to see our innovative solutions in action. If any example resonates with you, let us know—we’d be delighted to discuss the details and tailor it to your unique needs.
 
 <div class="post-list">
-  {% for post in site.posts %}
+  {% for post in site.use-cases %}
     <article class="post-preview">
       <h2>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>

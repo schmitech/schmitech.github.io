@@ -4,7 +4,6 @@ email: info@schmitech.ai
 baseurl: ""
 url: "https://www.schmitech.ai"
 
-# Theme settings
 theme: minima
 minima:
   skin: dark
@@ -14,15 +13,12 @@ minima:
     - platform: linkedin
       user_url: "https://linkedin.com/company/schmitech"
 
-# Build settings
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Navigation
 header_pages:
   - about.md
-  - solutions.md
   - use-cases.md
   - careers.md
   - contact.md
@@ -30,12 +26,8 @@ header_pages:
 markdown: kramdown
 timezone: America/Toronto
 
-# Collections
 collections:
-  solutions:
-    output: true
-    permalink: /:collection/:name
-  posts:
+  use-cases:
     output: true
     permalink: /blog/:year/:month/:day/:title
 
