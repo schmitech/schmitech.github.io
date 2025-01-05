@@ -9,7 +9,7 @@ hide_title: true
 
 ## Ignite Agility with Custom AI Agents
 
-Schmitech offers tailored, self-hosted AI solutions self-hosted AI solutions that give you complete control over your data and infrastructure. We integrate a range of language models, from open-source SLMs to advanced LLMs and autonomous AI agents, to solve your most complex business problems.
+Schmitech offers tailored, self-hosted AI solutions that give you complete control over your data and infrastructure. We integrate a range of language models, from open-source SLMs to advanced LLMs and autonomous AI agents, to solve your most complex business problems.
 
 ## Why Choose Schmitech
 
