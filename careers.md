@@ -7,7 +7,7 @@ hide_title: true
 
 {% include logo.html %}
 
-## <span style="color: #79b8ff">Careers at Schmitech</span>
+## Careers at Schmitech
 
 At Schmitech, we're always on the lookout for exceptional individuals who are enthusiastic about pushing the boundaries of technology and innovation. We seek those who are eager to learn, collaborate, and make a meaningful impact in these fields:
 
@@ -17,13 +17,13 @@ At Schmitech, we're always on the lookout for exceptional individuals who are en
 
 * Solution Architects with expertise in cloud architecture, migration, and security.
 
-### <span style="color: #79b8ff">Our Hiring Process</span>
+### Our Hiring Process
 
 At Schmitech, we believe that the hiring process should be straightforward, efficient, and focused on getting to know you as an individual.
 
 We value your time and experience, and we believe that the best way to assess your fit is through open and honest conversations. Our hiring process involves:
 
-**<span style="color: #79b8ff">1\. Initial Discussion:</span>**
+**1\. Initial Discussion:**
 
 * This is an opportunity for us to connect on a personal level. We're interested in hearing your story, your career aspirations, and what motivates you.
   
@@ -31,7 +31,7 @@ We value your time and experience, and we believe that the best way to assess yo
   
 * Think of this as a casual conversation where you can share your experiences and ask questions about what we do.
 
-**<span style="color: #79b8ff">2\. Technical Alignment:</span>**
+**2\. Technical Alignment:**
 
 * This stage allows us to delve deeper into your technical skills and expertise.
   
@@ -41,7 +41,7 @@ We value your time and experience, and we believe that the best way to assess yo
   
 * Our goal is to gain a clear understanding of your technical capabilities and how you approach problem-solving.
 
-**<span style="color: #79b8ff">3\. Final Interview:</span>**
+**3\. Final Interview:**
 
 * We'll discuss real-world scenarios and challenges that you might encounter in the role.
   

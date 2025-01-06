@@ -7,7 +7,7 @@ hide_title: true
 
 {% include logo.html %}
 
-## <span style="color: #79b8ff">Ignite Agility with Custom AI Agents</span>
+## Ignite Agility with Custom AI Agents
 
 Schmitech offers tailored, self-hosted AI solutions that give you complete control over your data and infrastructure. 
 
@@ -15,7 +15,7 @@ We integrate a range of language models, from open-source SLMs to advanced LLMs 
 
 Our expertise lies in crafting scalable, cost-effective, and enterprise-ready AI solutions that seamlessly integrate into your existing systems and workflows.
 
-## <span style="color: #79b8ff">Why Choose Schmitech</span>
+## Why Choose Schmitech
 
 **🔒 You Are in Full Control**: Our solutions ensure that your sensitive data remains secure within your on-premises or cloud environment, giving you complete control and peace of mind.
   
@@ -23,11 +23,11 @@ Our expertise lies in crafting scalable, cost-effective, and enterprise-ready AI
     
 **🤝 Enterprise-Ready Integration**: We understand that integrating with your existing systems and workflows is critical for success. Our team works closely with you to ensure smooth deployment and minimal disruption to your operations.
 
-## <span style="color: #79b8ff">AI Solutions for Diverse Industries</span>
+## AI Solutions for Diverse Industries
 
 Our AI solutions are designed to address the specific challenges and opportunities within various sectors. We offer AI applications for the following industries:
 
-### <span style="color: #79b8fb">🏦 Financial Services</span>
+### 🏦 Financial Services
 
 **Compliance Automation:** Streamline regulatory compliance processes by ensuring adherence to evolving laws and minimizing the risk of non-compliance.
   
@@ -41,7 +41,7 @@ Our AI solutions are designed to address the specific challenges and opportuniti
 
 **Personalized Financial Advice:** Leverage AI to analyze customer data and provide tailored financial advice, including investment recommendations, retirement planning, and tax optimization.
 
-### <span style="color: #79b8fb">🏥 Healthcare</span>
+### 🏥 Healthcare
 
 **Patient Communication:** Enhance patient engagement and communication through AI-powered chatbots, virtual assistants, and automated appointment reminders.
 
@@ -57,7 +57,7 @@ Our AI solutions are designed to address the specific challenges and opportuniti
 
 **Drug Discovery and Development:** Accelerate drug discovery and development processes through AI-powered simulations, data analysis, and predictive modeling.
 
-### <span style="color: #79b8fb">🛍️ E-commerce</span>
+### 🛍️ E-commerce
 
 **Intelligent Chatbots:** Deploy AI-powered chatbots to provide 24/7 customer support, answer inquiries, and assist with purchases, enhancing customer experience and satisfaction.
 
@@ -71,11 +71,11 @@ Our AI solutions are designed to address the specific challenges and opportuniti
 
 **Pricing Optimization:** Utilize AI to analyze market data, competitor pricing, and customer behavior, optimizing pricing strategies to maximize revenue and profitability.
 
-### <span style="color: #79b8fb">🌟 And Many More...</span>
+### 🌟 And Many More...
 
 Our expertise extends to a wide range of other industries, including manufacturing, logistics, education, and entertainment. We work closely with our clients to understand their unique challenges and develop customized AI solutions that deliver tangible results.
 
-## <span style="color: #79b8ff">Technologies</span>
+## Technologies
 
 Schmitech leverages a wide range of technologies and tools to develop and deploy AI solutions, including the following:
 
@@ -89,7 +89,7 @@ Schmitech leverages a wide range of technologies and tools to develop and deploy
 
 **🧠 AI Agent and LLM Training:** PyTorch, TensorFlow, Hugging Face, AutoGen, Ollama, LangChain, Keras, Ray, Phidata, and more.
 
-## <span style="color: #79b8ff">Getting Started is Easy</span>
+## Getting Started is Easy
 
 **💬 Free Consultation**: We begin by understanding your unique challenges, goals, and requirements. We then conduct a discovery session to explore how our AI solutions can best support your business objectives.
    
