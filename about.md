@@ -9,21 +9,20 @@ hide_title: true
 
 ## Our History
 
-Launched in December 2024, Schmitech brings a fresh perspective to AI innovation for small and medium-sized businesses across North America.
+Built on two decades of IT consulting experience, Schmitech brings fresh AI-driven innovation to businesses across North America.
 
-While the company itself is new, it’s built on the foundation of its founder's experience in transforming complex technology into practical solutions that drive measurable business outcomes.
-
-At the helm is **<a href="https://www.linkedin.com/in/remsy" target="_blank" rel="noopener noreferrer">Remsy Schmilinsky</a>**, whose two-decade journey in technology has been driven by one mission: empowering businesses to harness advanced technology to achieve meaningful progress.
-
-With experience spanning banking, transportation, government, and logistics sectors, Remsy brings a unique blend of technical depth and business insight to every project.
+At the helm is <a href="https://www.linkedin.com/in/remsy" target="_blank" rel="noopener noreferrer">Remsy Schmilinsky</a>, whose two-decade journey in technology spans banking, transportation, government, and logistics. Remsy's mission is to empower businesses to leverage advanced technology to solve challenges and achieve their goals.
 
 ### Our Philosophy
 
-We believe that AI should be accessible, practical, and transformative for businesses of any size. This drives our approach:
-- We focus on **high-impact solutions** that deliver measurable results
-- We create **sustainable systems** that grow with your business
-- We ensure **knowledge transfer** is built into every engagement
+We believe AI should be:
 
-Our commitment goes beyond implementation—we're building long-term partnerships to help businesses thrive in an AI-enabled future.
+- **Accessible** to businesses of all sizes
 
-**[Start your AI journey today →](/contact)**
+- **Practical**, with measurable outcomes
+
+- **Sustainable**, growing alongside your business
+
+We don’t just deliver solutions—we collaborate with you to create an AI-enabled future for your business.
+
+Want to see our expertise in action? Explore our [Use Cases](/use-cases), or [Contact Us](/contact) to start your AI journey today.
