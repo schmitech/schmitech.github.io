@@ -7,7 +7,7 @@ hide_title: true
 
 {% include logo.html %}
 
-## Careers at Schmitech
+## <span style="color: #79b8ff">Careers at Schmitech</span>
 
 At Schmitech, we're always on the lookout for exceptional individuals who are enthusiastic about pushing the boundaries of technology and innovation. We seek those who are eager to learn, collaborate, and make a meaningful impact in these fields:
 
@@ -17,30 +17,36 @@ At Schmitech, we're always on the lookout for exceptional individuals who are en
 
 * Solution Architects with expertise in cloud architecture, migration, and security.
 
-### Our Hiring Process
+### <span style="color: #79b8ff">Our Hiring Process</span>
 
 At Schmitech, we believe that the hiring process should be straightforward, efficient, and focused on getting to know you as an individual.
 
 We value your time and experience, and we believe that the best way to assess your fit is through open and honest conversations. Our hiring process involves:
 
-**1\. Initial Discussion:**
+**<span style="color: #79b8ff">1\. Initial Discussion:</span>**
 
-* This is an opportunity for us to connect on a personal level. We're interested in hearing your story, your career aspirations, and what motivates you.  
-* We want to understand your interests and how they align with our company culture and values.  
+* This is an opportunity for us to connect on a personal level. We're interested in hearing your story, your career aspirations, and what motivates you.
+  
+* We want to understand your interests and how they align with our company culture and values.
+  
 * Think of this as a casual conversation where you can share your experiences and ask questions about what we do.
 
-**2\. Technical Alignment:**
+**<span style="color: #79b8ff">2\. Technical Alignment:</span>**
 
-* This stage allows us to delve deeper into your technical skills and expertise.  
-* We'll explore your proficiency in relevant technologies and assess how your skillset aligns with the requirements of the role.  
-* This may involve a technical discussion, a code review, or a practical exercise, depending on the position.  
+* This stage allows us to delve deeper into your technical skills and expertise.
+  
+* We'll explore your proficiency in relevant technologies and assess how your skillset aligns with the requirements of the role.
+  
+* This may involve a technical discussion, a code review, or a practical exercise, depending on the position.
+  
 * Our goal is to gain a clear understanding of your technical capabilities and how you approach problem-solving.
 
-**3\. Final Interview:**
+**<span style="color: #79b8ff">3\. Final Interview:</span>**
 
-* This is where we bring everything together.  
-* We'll discuss real-world scenarios and challenges that you might encounter in the role.  
-* We're interested in hearing how you think critically, analyze situations, and develop solutions.  
+* We'll discuss real-world scenarios and challenges that you might encounter in the role.
+  
+* We're interested in hearing how you think critically, analyze situations, and develop solutions.
+  
 * This is also an opportunity for you to learn more about the day-to-day responsibilities of the position and the team you'll be working with.
 
 Even if you don't see a current opening that matches your profile, we'd love to connect. Great talent is always welcome at Schmitech.

@@ -7,13 +7,13 @@ hide_title: true
 
 {% include logo.html %}
 
-## Contact Us
+## <span style="color: #79b8ff">Contact Us</span>
 
 At Schmitech, we're passionate about helping businesses harness the power of artificial intelligence. Whether you're ready to embark on a full-scale AI project or simply curious about the possibilities, our team of experts is here to guide you through the process.
 
 Need immediate assistance? Look for the chat icon to start a conversation with our team right away. Our chat support is available anytime to answer your questions and help you learn more about our solutions.
 
-### Schedule a Free Consultation
+### <span style="color: #79b8fb">Schedule a Free Consultation</span>
 
 We invite you to book a no-obligation consultation with us. During this session, we'll take the time to:
 
@@ -27,7 +27,7 @@ We invite you to book a no-obligation consultation with us. During this session,
 
 **❓Answer Your Questions:** Bring your questions—our experts will provide clear guidance and help you navigate your AI journey with confidence.
 
-### How to Reach Us:
+### <span style="color: #79b8fb">How to Reach Us:</span>
 
 116 Granville St.  
 Ottawa, ON Canada  

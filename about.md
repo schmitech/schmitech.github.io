@@ -7,13 +7,13 @@ hide_title: true
 
 {% include logo.html %}
 
-## Our History
+## <span style="color: #79b8ff">Our History</span>
 
 Built on two decades of IT consulting experience, Schmitech brings fresh AI-driven innovation to businesses across North America.
 
 At the helm is <a href="https://www.linkedin.com/in/remsy" target="_blank" rel="noopener noreferrer">Remsy Schmilinsky</a>, whose two-decade journey in technology spans banking, transportation, government, and logistics. Remsy's mission is to empower businesses to leverage advanced technology to solve challenges and achieve their goals.
 
-### Our Philosophy
+### <span style="color: #79b8fb">Our Philosophy</span>
 
 We believe AI should be:
 
