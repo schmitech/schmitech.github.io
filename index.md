@@ -7,7 +7,7 @@ hide_title: true
 
 {% include logo.html %}
 
-## Ignite Agility with Custom AI Agents
+## Fueling Business Evolution with AI
 
 Schmitech helps businesses harness the power of artificial intelligence by developing and deploying scalable, cost-effective, and enterprise-ready solutions.
 
